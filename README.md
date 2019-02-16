@@ -1,2 +1,2 @@
 # install_Owncloud
-Installation de Owncloud
+Script permettant l'installation de Owncloud
