@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo -e "\n"
-echo "INSTALLATION OWNCLOUD OKLM ZERRRRRRRRRRRRRRRRRR"
+echo "INSTALLATION OWNCLOUD "
 echo -e "\n"
 read -p "appuyez sur entrée pour commencer!!!!!!!!!"
 
