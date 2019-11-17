@@ -123,14 +123,12 @@ echo -e "\n"
 echo "Attention c'est à vous maintenant ! allez sur: http://IP/owncloud/"
 echo -e "\n"
 read -p "appuyez sur entrée pour terminer"
-
-créer un nouvel utilisateur et s'est finie haaaaaaaaaaaaaaa 
  
  https://linuxhostsupport.com/blog/how-to-install-owncloud-10-on-debian-9/
  
  https://tecadmin.net/install-owncloud-on-debian-9/
  
- secirité et tout === https://www.kassianoff.fr/blog/fr/installation-configuration-owncloud
+ securité === https://www.kassianoff.fr/blog/fr/installation-configuration-owncloud
  
  
  ssl ===  https://wiki.debian.org/fr/owncloud
